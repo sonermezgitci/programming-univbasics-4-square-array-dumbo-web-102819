@@ -5,4 +5,5 @@ while array [counter] do
 numbers.push(array[counter])
     counter += 1
   end
+  numbers
 end
